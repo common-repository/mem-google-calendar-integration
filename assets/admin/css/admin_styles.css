@@ -1,0 +1,6 @@
+/**
+ * Mobile Events Manager - GCal Sync Settings Styles
+ */
+.gcalconnectbtn{display: block;padding: 10px;text-align: center;font-size: 16px;width: 100%;cursor: pointer;text-decoration: none;}
+.gcalconnectbtn.notconnected{color: #fff;background: #b10000;}
+.gcalconnectbtn.connected{color: #fff;background: #03b100;}
